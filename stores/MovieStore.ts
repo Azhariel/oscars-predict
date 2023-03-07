@@ -1,6 +1,6 @@
 import { writable } from 'svelte/store'
 import type { Writable } from 'svelte/store'
-import movies from '../static/oscars.json'
+import movies from '../src/oscars.json'
 
 export interface Movies {
   'ACTOR IN A LEADING ROLE': Movie
