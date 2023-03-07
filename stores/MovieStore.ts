@@ -53,9 +53,7 @@ export const movieStore: Writable<CategoryNominees[]> = writable([])
 
 const getMoviesFromJSON = () => {
   const loadedMovies = Object.keys(movies).map((category) => {
-    const processedCategory = category
-      .toLowerCase()
-      .replace(/(?:^|\s|[-"'([{])+\S/g, (c) => c.toUpperCase())
+    const processedCategory = category.toUpperCase()
     // eslint-disable-next-line @typescript-eslint/ban-ts-comment
     // @ts-ignore
     const processedNominees = movies[category].NOMINEES.map(
