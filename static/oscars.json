@@ -1,0 +1,579 @@
+{
+  "ACTOR IN A LEADING ROLE": {
+    "NOMINEES": [
+      {
+        "movie": "Elvis",
+        "nominated": "AUSTIN BUTLER"
+      },
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "COLIN FARRELL"
+      },
+      {
+        "movie": "The Whale",
+        "nominated": "BRENDAN FRASER"
+      },
+      {
+        "movie": "Aftersun",
+        "nominated": "PAUL MESCAL"
+      },
+      {
+        "movie": "Living",
+        "nominated": "BILL NIGHY"
+      }
+    ]
+  },
+  "ACTOR IN A SUPPORTING ROLE": {
+    "NOMINEES": [
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "BRENDAN GLEESON"
+      },
+      {
+        "movie": "Causeway",
+        "nominated": "BRIAN TYREE HENRY"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "JUDD HIRSCH"
+      },
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "BARRY KEOGHAN"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "KE HUY QUAN"
+      }
+    ]
+  },
+  "ACTRESS IN A LEADING ROLE": {
+    "NOMINEES": [
+      {
+        "movie": "Tár",
+        "nominated": "CATE BLANCHETT"
+      },
+      {
+        "movie": "Blonde",
+        "nominated": "ANA DE ARMAS"
+      },
+      {
+        "movie": "To Leslie",
+        "nominated": "ANDREA RISEBOROUGH"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "MICHELLE WILLIAMS"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "MICHELLE YEOH"
+      }
+    ]
+  },
+  "ACTRESS IN A SUPPORTING ROLE": {
+    "NOMINEES": [
+      {
+        "movie": "Black Panther: Wakanda Forever",
+        "nominated": "ANGELA BASSETT"
+      },
+      {
+        "movie": "The Whale",
+        "nominated": "HONG CHAU"
+      },
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "KERRY CONDON"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "JAMIE LEE CURTIS"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "STEPHANIE HSU"
+      }
+    ]
+  },
+  "ANIMATED FEATURE FILM": {
+    "NOMINEES": [
+      {
+        "movie": "Guillermo del Toro's Pinocchio",
+        "nominated": "Guillermo del Toro, Mark Gustafson, Gary Ungar, Alex Bulkley"
+      },
+      {
+        "movie": "Marcel the Shell with Shoes On",
+        "nominated": "Dean Fleischer Camp, Elisabeth Holm, Andrew Goldman, Caroline Kaplan, Paul Mezey"
+      },
+      {
+        "movie": "Puss in Boots: The Last Wish",
+        "nominated": "Joel Crawford, Mark Swift"
+      },
+      {
+        "movie": "The Sea Beast",
+        "nominated": "Chris Williams, Jed Schlanger"
+      },
+      {
+        "movie": "Turning Red",
+        "nominated": "Domee Shi, Lindsey Collins"
+      }
+    ]
+  },
+  "CINEMATOGRAPHY": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "James Friend"
+      },
+      {
+        "movie": "Bardo, False Chronicle of a Handful of Truths",
+        "nominated": "Darius Khondji"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "Mandy Walker"
+      },
+      {
+        "movie": "Empire of Light",
+        "nominated": "Roger Deakins"
+      },
+      {
+        "movie": "Tár",
+        "nominated": "Florian Hoffmeister"
+      }
+    ]
+  },
+  "COSTUME DESIGN": {
+    "NOMINEES": [
+      {
+        "movie": "Babylon",
+        "nominated": "Mary Zophres"
+      },
+      {
+        "movie": "Black Panther: Wakanda Forever",
+        "nominated": "Ruth Carter"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "Catherine Martin"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Shirley Kurata"
+      },
+      {
+        "movie": "Mrs. Harris Goes to Paris",
+        "nominated": "Jenny Beavan"
+      }
+    ]
+  },
+  "DIRECTING": {
+    "NOMINEES": [
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "Martin McDonagh"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Daniel Kwan and Daniel Scheinert"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "Steven Spielberg"
+      },
+      {
+        "movie": "Tár",
+        "nominated": "Todd Field"
+      },
+      {
+        "movie": "Triangle of Sadness",
+        "nominated": "Ruben Östlund"
+      }
+    ]
+  },
+  "DOCUMENTARY FEATURE FILM": {
+    "NOMINEES": [
+      {
+        "movie": "All That Breathes",
+        "nominated": "Shaunak Sen, Aman Mann and Teddy Leifer"
+      },
+      {
+        "movie": "All the Beauty and the Bloodshed",
+        "nominated": "Laura Poitras, Howard Gertler, John Lyons, Nan Goldin and Yoni Golijov"
+      },
+      {
+        "movie": "Fire of Love",
+        "nominated": "Sara Dosa, Shane Boris and Ina Fichman"
+      },
+      {
+        "movie": "A House Made of Splinters",
+        "nominated": "Simon Lereng Wilmont and Monica Hellström"
+      },
+      {
+        "movie": "Navalny",
+        "nominated": "Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris"
+      }
+    ]
+  },
+  "DOCUMENTARY SHORT FILM": {
+    "NOMINEES": [
+      {
+        "movie": "THE ELEPHANT WHISPERERS",
+        "nominated": "Kartiki Gonsalves and Guneet Monga"
+      },
+      {
+        "movie": "HAULOUT",
+        "nominated": "Evgenia Arbugaeva and Maxim Arbugaev"
+      },
+      {
+        "movie": "HOW DO YOU MEASURE A YEAR?",
+        "nominated": "Jay Rosenblatt"
+      },
+      {
+        "movie": "THE MARTHA MITCHELL EFFECT",
+        "nominated": "Anne Alvergue and Beth Levison"
+      },
+      {
+        "movie": "STRANGER AT THE GATE",
+        "nominated": "Joshua Seftel and Conall Jones"
+      }
+    ]
+  },
+  "FILM EDITING": {
+    "NOMINEES": [
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "Mikkel E.G. Nielsen"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "Matt Villa and Jonathan Redmond"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Paul Rogers"
+      },
+      {
+        "movie": "Tár",
+        "nominated": "Monika Willi"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Eddie Hamilton"
+      }
+    ]
+  },
+  "INTERNATIONAL FEATURE FILM": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Germany"
+      },
+      {
+        "movie": "Argentina, 1985",
+        "nominated": "Argentina"
+      },
+      {
+        "movie": "Close",
+        "nominated": "Belgium"
+      },
+      {
+        "movie": "Eo",
+        "nominated": "Poland"
+      },
+      {
+        "movie": "The Quiet Girl",
+        "nominated": "Ireland"
+      }
+    ]
+  },
+  "MAKEUP AND HAIRSTYLING": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Heike Merker and Linda Eisenhamerová"
+      },
+      {
+        "movie": "The Batman",
+        "nominated": "Naomi Donne, Mike Marino and Mike Fontaine"
+      },
+      {
+        "movie": "Black Panther: Wakanda Forever",
+        "nominated": "Camille Friend and Joel Harlow"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "Mark Coulier, Jason Baird and Aldo Signoretti"
+      },
+      {
+        "movie": "The Whale",
+        "nominated": "Adrien Morot, Judy Chin and Annemarie Bradley"
+      }
+    ]
+  },
+  "MUSIC (ORIGINAL SCORE)": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Volker Bertelmann"
+      },
+      {
+        "movie": "Babylon",
+        "nominated": "Justin Hurwitz"
+      },
+      {
+        "movie": "The Banshees of Inisheer",
+        "nominated": "Carter Burwell"
+      },
+      {
+        "movie": "Everything Everywhere All At Once",
+        "nominated": "Son Lux"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "John Williams"
+      }
+    ]
+  },
+  "MUSIC (ORIGINAL SONG)": {
+    "NOMINEES": [
+      {
+        "movie": "Tell It like a Woman",
+        "nominated": "Music and Lyric by Diane Warren",
+        "song": "APPLAUSE"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Music and Lyric by Lady Gaga and BloodPop",
+        "song": "HOLD MY HAND"
+      },
+      {
+        "movie": "Black Panther: Wakanda Forever",
+        "nominated": "Music by Tems, Rihanna, Ryan Coogler and Ludwig Goransson; Lyric by Tems and Ryan Coogler",
+        "song": "LIFT ME UP"
+      },
+      {
+        "movie": "RRR",
+        "nominated": "Music by M.M. Keeravaani; Lyric by Chandrabose",
+        "song": "NAATU NAATU"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Music by Ryan Lott, David Byrne and Mitski; Lyric by Ryan Lott and David Byrne",
+        "song": "THIS IS A LIFE"
+      }
+    ]
+  },
+  "BEST PICTURE": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Malte Grunert"
+      },
+      {
+        "movie": "Avatar: The Way of Water",
+        "nominated": "James Cameron and Jon Landau"
+      },
+      {
+        "movie": "The Banshees of Inisherin",
+        "nominated": "Graham Broadbent, Pete Czernin and Martin McDonagh"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "Baz Luhrmann, Catherine Martin, Gail Berman, Patrick McCormick and Schuyler Weiss"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Daniel Kwan, Daniel Scheinert and Jonathan Wang"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "Kristie Macosko Krieger, Steven Spielberg and Tony Kushner"
+      },
+      {
+        "movie": "Tár",
+        "nominated": "Todd Field, Alexandra Milchan and Scott Lambert"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Tom Cruise, Christopher McQuarrie, David Ellison and Jerry Bruckheimer"
+      },
+      {
+        "movie": "Triangle of Sadness",
+        "nominated": "Erik Hemmendorff and Philippe Bober"
+      },
+      {
+        "movie": "Women Talking",
+        "nominated": "Dede Gardner, Jeremy Kleiner and Frances McDormand"
+      }
+    ]
+  },
+  "PRODUCTION DESIGN": {
+    "NOMINEES": [
+      {
+        "movie": "ALL QUIET ON THE WESTERN FRONT",
+        "nominated": "Christian M. Goldbeck; Set Decoration: Ernestine Hipper"
+      },
+      {
+        "movie": "AVATAR: THE WAY OF WATER",
+        "nominated": "Dylan Cole and Ben Procter; Set Decoration: Vanessa Cole"
+      },
+      {
+        "movie": "BABYLON",
+        "nominated": "Florencia Martin; Set Decoration: Anthony Carlino"
+      },
+      {
+        "movie": "ELVIS",
+        "nominated": "Catherine Martin and Karen Murphy; Set Decoration: Bev Dunn"
+      },
+      {
+        "movie": "THE FABELMANS",
+        "nominated": "Rick Carter; Set Decoration: Karen O'Hara"
+      }
+    ]
+  },
+  "SHORT FILM (ANIMATED)": {
+    "NOMINEES": [
+      {
+        "movie": "The Boy, the Mole, the Fox and the Horse",
+        "nominated": "Charlie Mackesy and Matthew Freud"
+      },
+      {
+        "movie": "The Flying Sailor",
+        "nominated": "Amanda Forbis and Wendy Tilby"
+      },
+      {
+        "movie": "Ice Merchants",
+        "nominated": "João Gonzalez and Bruno Caetano"
+      },
+      {
+        "movie": "My Year of Dicks",
+        "nominated": "Sara Gunnarsdóttir and Pamela Ribon"
+      },
+      {
+        "movie": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+        "nominated": "Lachlan Pendragon"
+      }
+    ]
+  },
+  "SHORT FILM (LIVE ACTION)": {
+    "NOMINEES": [
+      {
+        "movie": "An Irish Goodbye",
+        "nominated": "Tom Berkeley and Ross White"
+      },
+      {
+        "movie": "Ivalu",
+        "nominated": "Anders Walter and Rebecca Pruzan"
+      },
+      {
+        "movie": "Le Pupille",
+        "nominated": "Alice Rohrwacher and Alfonso Cuarón"
+      },
+      {
+        "movie": "Night Ride",
+        "nominated": "Eirik Tveiten and Gaute Lid Larssen"
+      },
+      {
+        "movie": "The Red Suitcase",
+        "nominated": "Cyrus Neshvad"
+      }
+    ]
+  },
+  "SOUND": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Viktor Prášil, Frank Kruse, Markus Stemler, Lars Ginzel and Stefan Korte"
+      },
+      {
+        "movie": "Avatar: The Way of Water",
+        "nominated": "Julian Howarth, Gwendolyn Yates Whittle, Dick Bernstein, Christopher Boyes, Gary Summers and Michael Hedges"
+      },
+      {
+        "movie": "The Batman",
+        "nominated": "Stuart Wilson, William Files, Douglas Murray and Andy Nelson"
+      },
+      {
+        "movie": "Elvis",
+        "nominated": "David Lee, Wayne Pashley, Andy Nelson and Michael Keller"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor"
+      }
+    ]
+  },
+  "VISUAL EFFECTS": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Frank Petzold, Viktor Müller, Markus Frank and Kamil Jafar"
+      },
+      {
+        "movie": "Avatar: The Way of Water",
+        "nominated": "Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett"
+      },
+      {
+        "movie": "The Batman",
+        "nominated": "Dan Lemmon, Russell Earl, Anders Langlands and Dominic Tuohy"
+      },
+      {
+        "movie": "Black Panther: Wakanda Forever",
+        "nominated": "Geoffrey Baumann, Craig Hammack, R. Christopher White and Dan Sudick"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Ryan Tudhope, Seth Hill, Bryan Litson and Scott R. Fisher"
+      }
+    ]
+  },
+  "WRITING (ADAPTED SCREENPLAY)": {
+    "NOMINEES": [
+      {
+        "movie": "All Quiet on the Western Front",
+        "nominated": "Screenplay - Edward Berger, Lesley Paterson & Ian Stokell"
+      },
+      {
+        "movie": "Glass Onion: A Knives Out Mystery",
+        "nominated": "Written by Rian Johnson"
+      },
+      {
+        "movie": "Living",
+        "nominated": "Written by Kazuo Ishiguro"
+      },
+      {
+        "movie": "Top Gun: Maverick",
+        "nominated": "Screenplay by Ehren Kruger and Eric Warren Singer and Christopher McQuarrie; Story by Peter Craig and Justin Marks"
+      },
+      {
+        "movie": "Women Talking",
+        "nominated": "Screenplay by Sarah Polley"
+      }
+    ]
+  },
+  "WRITING (ORIGINAL SCREENPLAY)": {
+    "NOMINEES": [
+      {
+        "movie": "The Banshees of Inisheerin",
+        "nominated": "Written by Martin McDonagh"
+      },
+      {
+        "movie": "Everything Everywhere All at Once",
+        "nominated": "Written by Daniel Kwan & Daniel Scheinert"
+      },
+      {
+        "movie": "The Fabelmans",
+        "nominated": "Written by Steven Spielberg & Tony Kushner"
+      },
+      {
+        "movie": "Tár",
+        "nominated": "Written by Todd Field"
+      },
+      {
+        "movie": "Triangle of Sadness",
+        "nominated": "Written by Ruben Östlund"
+      }
+    ]
+  }
+}
