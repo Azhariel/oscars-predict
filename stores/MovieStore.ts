@@ -43,18 +43,74 @@ export interface CategoryNominees {
   nominees: MovieNominee[]
 }
 
+export interface MovieWithCategories {
+  movie: string
+  categories: string[]
+  nominated: string
+}
+
 export const movieStore: Writable<CategoryNominees[]> = writable([])
 
 const getMoviesFromJSON = () => {
   const loadedMovies = Object.keys(movies).map((category) => {
+    const processedCategory = category
+      .toLowerCase()
+      .replace(/(?:^|\s|[-"'([{])+\S/g, (c) => c.toUpperCase())
+    // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+    // @ts-ignore
+    const processedNominees = movies[category].NOMINEES.map(
+      (nominee: MovieNominee) => {
+        return {
+          movie: nominee.movie
+            .toLowerCase()
+            .replace(/(?:^|\s|[-"'([{])+\S/g, (c: string) => c.toUpperCase()),
+          nominated: nominee.nominated
+            .toLowerCase()
+            .replace(/(?:^|\s|[-"'([{])+\S/g, (c: string) => c.toUpperCase()),
+        }
+      }
+    )
+
     return {
-      category,
+      category: processedCategory,
       // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
-      nominees: movies[category].NOMINEES,
+      nominees: processedNominees,
     }
   })
   movieStore.set(loadedMovies)
 }
 
 getMoviesFromJSON()
+
+export const getMovieNominations = (movie: string): MovieWithCategories[] => {
+  const nominations: MovieWithCategories[] = []
+  movieStore.subscribe((movies) => {
+    movies.forEach((category) => {
+      category.nominees.forEach((nominee) => {
+        if (nominee.movie.toLowerCase() === movie.toLowerCase()) {
+          nominations.push({
+            movie: nominee.movie,
+            categories: [category.category],
+            nominated: nominee.nominated,
+          })
+        }
+      })
+    })
+  })
+  return nominations
+}
+
+export const getUniqueMovies = (): string[] => {
+  const movies: string[] = []
+  movieStore.subscribe((categories) => {
+    categories.forEach((category) => {
+      category.nominees.forEach((nominee) => {
+        if (!movies.includes(nominee.movie)) {
+          movies.push(nominee.movie)
+        }
+      })
+    })
+  })
+  return movies
+}
