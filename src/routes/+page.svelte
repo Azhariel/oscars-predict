@@ -7,9 +7,6 @@
 <svelte:head>
     <title>Oscars²³</title>
 </svelte:head>
-<div class="navbar bg-base-100">
-    <a href="/" class="btn btn-ghost normal-case text-xl">Oscars²³</a>
-</div>
 
 <div class="flex flex-wrap p-8 w-auto justify-center">
 {#each movies as movie}
