@@ -1,5 +1,6 @@
 <script>
-    import { getUniqueMovies, getMovieNominations } from "../../stores/MovieStore";
+    import { getUniqueMovies, getMovieNominations } from "../../stores/MovieStore"
+    import { getPoster } from "../../stores/PosterStore"
 
     const movies = getUniqueMovies()
 </script>
@@ -15,7 +16,7 @@
   {#await getMovieNominations(movie) then nominations}
 
 <div class="card card-compact w-64 bg-base-100 shadow-xl mx-4 mb-4">
-    <figure><img src="../images/Everything Everywhere All At Once.jpg" alt="{movie}" /></figure>
+    <figure><img src="{getPoster(movie)}" alt="{movie}" /></figure>
     <div class="card-body">
       <h1 class="card-title">
         {movie}
