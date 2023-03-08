@@ -12,7 +12,7 @@ export const posterStore: Writable<Poster[]> = writable([])
 
 const setPosterStore = () => {
     const posters: Poster[] = []
-    const regex = /\/([A-z,0-9 \u00C0-\u00FF]+)+\./g
+    const regex = /\/([A-z,0-9. \u00C0-\u00FF]+)+\./g
     movies.forEach(async (movie) => {
         Object.entries(images).forEach((image) => {
             const match = [...image[0].matchAll(regex)]
