@@ -1,5 +1,4 @@
 <script>
-    import everythingPoster from "../images/everything-everywhere-all-at-once.webp"
     import { getUniqueMovies, getMovieNominations } from "../../stores/MovieStore";
 
     const movies = getUniqueMovies()
@@ -15,8 +14,8 @@
 {#each movies as movie}
   {#await getMovieNominations(movie) then nominations}
 
-<div class="card w-64 bg-base-100 shadow-xl mx-4">
-    <figure><img src="{everythingPoster}" alt="{movie}" /></figure>
+<div class="card card-compact w-64 bg-base-100 shadow-xl mx-4 mb-4">
+    <figure><img src="../images/Everything Everywhere All At Once.jpg" alt="{movie}" /></figure>
     <div class="card-body">
       <h1 class="card-title">
         {movie}
@@ -24,8 +23,8 @@
       <p>Nominated for {nominations.length} {nominations.length == 1 ? 'award' : 'awards'}</p>
       <div class="card-actions justify-end">
         {#each nominations as nomination}
-        <div class="tooltip" data-tip="{nomination.nominated}">
-        <div class="badge badge-sm truncate">{nomination.categories[0]}</div> 
+        <div class="tooltip tooltip-primary" data-tip="{nomination.nominated}">
+        <div class="badge badge-primary badge-outline badge-sm truncate">{nomination.categories[0]}</div> 
     </div>
         {/each}
       </div>
